@@ -18,7 +18,7 @@ public class MyCalcTest {
 	@Test
 	public void test_Diif() {
 		
-		assertEquals(20, calc.diff(30, 10));
+		assertEquals(10, calc.diff(30, 10));
 		
 	}
 }
